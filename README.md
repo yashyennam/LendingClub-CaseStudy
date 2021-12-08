@@ -85,7 +85,6 @@ Two types of risks are associated with bank decision.
 
 ## Acknowledgements
 - This project is done for lending club case study.
-- Coursera (https://www.coursera.org/learn/credit-risk-management/home/welcome)
 - Thanks to the course in Coursera (https://www.coursera.org/learn/credit-risk-management/home/welcome) for helping in understanding the credit framework and to stackoverflow in helping to resolve the technical queries.
 
 
