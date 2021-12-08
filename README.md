@@ -28,16 +28,20 @@ Two types of risks are associated with bank decision.
 ## Analysis Approach
 
 1. Exploratory data analysis on the data set.      
-2. Data Understanding
+2. Data Understanding:
+
     Address Quality issues
     Handle outliers
-3. Data cleaning and manipulation.    
+3. Data cleaning and manipulation.
+ 
     Format the data based on data types like date, float, int.   
     Derive columns based on the existing columns. 
 4. Data analysis
+
     Univariate analysis
     Bivaraiate analysis
 5. Conclusions
+
     Conclusion based on patterns and drivers
 
 ## Conclusions
