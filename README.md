@@ -6,8 +6,8 @@ Identify risky loan applicants, so that such loans can be reduced to cut the amo
 * [Problem statement](#problem-statement)
 * [Decision Risks](#decision-risks)
 * [Analysis approach](#analysis-approach)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
 
@@ -17,7 +17,7 @@ Identify risky loan applicants, so that such loans can be reduced to cut the amo
  
  The data given is given for past loan applicants whose loan was approved and whether they ‘defaulted’ or not. The aim is to identify patterns which indicate if a person is likely to default, which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
 
-## Decision making risks :
+## Decision Risks
 
 Two types of risks are associated with bank decision.
 - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company. 
@@ -25,7 +25,7 @@ Two types of risks are associated with bank decision.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-# Analysis Approach
+## Analysis Approach
 
 1. Exploratory data analysis on the data set.      
 2. Data Understanding
@@ -77,13 +77,13 @@ Two types of risks are associated with bank decision.
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project is done for lending club case study.
+- Coursera (https://www.coursera.org/learn/credit-risk-management/home/welcome)
 
 
 
 ## Contact
-Created by [@][@idhaya-r] - feel free to contact me!
+Created by [@yashyennam][@idhaya-r] - feel free to contact me!
 
 
 <!-- Optional -->
