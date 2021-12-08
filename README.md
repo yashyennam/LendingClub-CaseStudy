@@ -73,21 +73,25 @@ Two types of risks are associated with bank decision.
 
 
 ## Technologies Used
-- numpy - version 1.0
-- pandas - version 2.0
-- matplotlib - version 3.0
-- plotly - version 4.3.0
+- pandas                        1.1.5
+- adjustText                    0.7.3
+- geopandas                     0.10.2
+- numpy                         1.19.5
+- matplotlib                    3.2.2
+- seaborn                       0.11.2
+- Shapely                       1.8.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 - This project is done for lending club case study.
 - Coursera (https://www.coursera.org/learn/credit-risk-management/home/welcome)
+- Thanks to the course in Coursera (https://www.coursera.org/learn/credit-risk-management/home/welcome) for helping in understanding the credit framework and to stackoverflow in helping to resolve the technical queries.
 
 
 
 ## Contact
-Created by [@yashyennam][@idhaya-r] - feel free to contact me!
+Created by [@yashyennam][@idhaya-r] - feel free to contact us!
 
 
 <!-- Optional -->
